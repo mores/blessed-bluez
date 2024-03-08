@@ -6,7 +6,7 @@
 	<artifactId>blessed</artifactId>
 
 	<name>blessed</name>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>0.63-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<properties>
